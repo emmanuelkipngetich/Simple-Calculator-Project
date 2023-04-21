@@ -1,0 +1,2 @@
+# Simple-Calculator-Project
+This is a simple python calculator
